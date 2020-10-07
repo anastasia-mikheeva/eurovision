@@ -1,0 +1,6 @@
+tensorflow
+googletrans
+pickle
+pyenchant
+pandas
+numpy
